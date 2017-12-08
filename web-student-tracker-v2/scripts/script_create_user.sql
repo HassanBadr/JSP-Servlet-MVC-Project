@@ -1,0 +1,5 @@
+
+<!-- Oracle -->
+
+CREATE USER c##hassan3 IDENTIFIED BY peace3 DEFAULT TABLESPACE users;
+GRANT ALL PRIVILEGES TO c##hassan3;
